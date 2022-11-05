@@ -1,0 +1,9 @@
+.textarea {
+  border: none;
+  border-radius: 5px;
+  background-color: #c1c1c1;
+}
+.textarea::placeholder {
+  padding: 1rem;
+  font-family: 'Roboto Mono', monospace;
+}
